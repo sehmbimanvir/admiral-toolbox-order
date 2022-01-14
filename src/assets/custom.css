@@ -1,0 +1,10 @@
+body {
+    background-color: #e9ecef;
+    margin: 16px;
+}
+.text-right {
+    text-align: right;
+}
+.product-card > img {
+    width: 18%;
+}
