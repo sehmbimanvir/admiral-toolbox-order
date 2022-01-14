@@ -2,26 +2,26 @@
     "items": [
         {
             "id": 1,
-            "title": "Product 1",
-            "price": 22.45,
+            "title": "Bike Insurance",
+            "price": 121.90,
             "thumbnail": "https://i.ibb.co/hKkpQDV/bike-insurance.png",
             "plan": "Gold",
             "installment": "Monthly"
         },
         {
             "id": 2,
-            "title": "Product 2",
-            "price": 22.45,
+            "title": "Car Insurance",
+            "price": 122.67,
             "thumbnail": "https://i.ibb.co/4VH4JkN/car-insurance.png",
-            "plan": "Gold",
+            "plan": "Platinum",
             "installment": "Monthly"
         },
         {
             "id": 3,
-            "title": "Product 1",
-            "price": 22.45,
+            "title": "Home Insurance",
+            "price": 364.45,
             "thumbnail": "https://i.ibb.co/vdVTBGB/home-insurance.png",
-            "plan": "Silver",
+            "plan": "Gold",
             "installment": "Yearly"
         }
     ]
